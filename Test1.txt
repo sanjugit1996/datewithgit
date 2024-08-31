@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 In Master I added directly
+=======
+new change for Test1 Branch
+>>>>>>> Test1
